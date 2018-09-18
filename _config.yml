@@ -1,6 +1,6 @@
 # Site settings
 title: "Casey's Resume"
-description: "This is a test resume."
+description: "A resume for Casey Allen."
 
 # Build settings
 markdown: kramdown
